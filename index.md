@@ -13,7 +13,7 @@ nav_order: 1
 
 
 
-Bienvenue sur le recueil d'informations du groupe de recherche [CORAIL](https://corail-research.github.io/). Ce site est à destination des étudiant.e.s déjà affilié.e.s au groupe ainsi qu'à à ceux et celles intéressé.e.s pour le rejoindre.
+Bienvenue sur le recueil d'informations du groupe de recherche [CORAIL](https://corail-research.github.io/). Ce site est à destination des étudiant.es déjà affilié.e.s au groupe ainsi qu'à à ceux et celles intéressé.es pour le rejoindre.
 
 L'objectif de ce recueil est de répertorier toutes les informations utiles dans votre cheminement académique. Vous trouverez par exemple les étapes clefs de votre [cheminement académique][Cheminement], les [contacts principaux][Contacts] pour les aspects administatifs, ainsi que [différents conseils][Ressources] pour mener à bien vos projets.
 

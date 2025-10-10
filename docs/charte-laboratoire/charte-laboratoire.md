@@ -3,7 +3,7 @@ title: Charte du laboratoire
 nav_order: 2
 ---
 
-Cette charte présente les principes et valeurs essentielless qui guident notre laboratoire afin de favoriser un environnement de travail sain, éthique, collaboratif, et efficace. Elle vise à établir des attentes claires tout en encourageant le respect et l’engagement de chacun. 
+Cette charte présente les principes et valeurs essentielles qui guident notre laboratoire afin de favoriser un environnement de travail sain, éthique, collaboratif, et efficace. Elle vise à établir des attentes claires tout en encourageant le respect et l’engagement de chacun. 
 
 
 ### 1. Respect des règlements
