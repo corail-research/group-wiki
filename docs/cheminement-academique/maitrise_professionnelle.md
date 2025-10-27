@@ -87,5 +87,7 @@ Non, vous avez ainsi une plus grande liberté dans vos choix de cours.
 
 Oui, par contre vous devez généralement vous y prendre tôt pour avoir une place disponible.
 
-[Recherche]: ../maitrise_recherche
-[mpro-exemple]: /assets/images/exemple-mpro.pdf
+[Recherche]: ../maitrise_recherche 
+[mpro-exemple]: ../exemple-mpro.pdf
+
+/Users/quentincappart/Documents/Professeur-poly/CORAIL/Wiki/group-wiki/assets/images/exemple-mpro.pdf
