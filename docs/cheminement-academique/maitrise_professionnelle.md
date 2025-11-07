@@ -85,9 +85,8 @@ Non, vous avez ainsi une plus grande liberté dans vos choix de cours.
 
 > *Peut-on prendre des cours hors Polytechnique?* 
 
-Oui, par contre vous devez généralement vous y prendre tôt pour avoir une place disponible.
+Oui, par contre vous devez généralement vous y prendre tôt pour avoir une place disponible. Plus d'informations sur la démarche à suivre
+sont disponibles sur [cette page](https://etudiant.polymtl.ca/etudes/inscription-et-choix-de-cours/cours-hors-etablissement-0).
 
 [Recherche]: ../maitrise_recherche 
 [mpro-exemple]: ../exemple-mpro.pdf
-
-/Users/quentincappart/Documents/Professeur-poly/CORAIL/Wiki/group-wiki/assets/images/exemple-mpro.pdf
